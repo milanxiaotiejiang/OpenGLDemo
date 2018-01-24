@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AirHockey1" />
+            <option value="$PROJECT_DIR$/AirHockey2" />
+            <option value="$PROJECT_DIR$/AirHockey3D" />
+            <option value="$PROJECT_DIR$/AirHockeyOrtho" />
+            <option value="$PROJECT_DIR$/AirHockeyTextured" />
+            <option value="$PROJECT_DIR$/AirHockeyTouch" />
+            <option value="$PROJECT_DIR$/AirHockeyWithBetterMallets" />
+            <option value="$PROJECT_DIR$/Airhockey3" />
+            <option value="$PROJECT_DIR$/Heightmap" />
+            <option value="$PROJECT_DIR$/Lighting" />
+            <option value="$PROJECT_DIR$/LiveWallPaper" />
+            <option value="$PROJECT_DIR$/Particles" />
+            <option value="$PROJECT_DIR$/Skybox" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/demo" />
+            <option value="$PROJECT_DIR$/doggycoder" />
+            <option value="$PROJECT_DIR$/library" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
